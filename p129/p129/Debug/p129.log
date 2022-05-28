@@ -1,0 +1,5 @@
+﻿  p129.cpp
+C:\Users\KCCI09\source\c++\p129\p129\p129.cpp(7,21): warning C4930: 'PrivateAccessError objA(void)': 프로토타입 함수가 호출되지 않았습니다. 변수 정의로 사용하려고 한 것은 아닌지 확인하십시오.
+  PrivateAccessError.cpp
+  코드를 생성하고 있습니다...
+  p129.vcxproj -> C:\Users\KCCI09\source\c++\p129\Debug\p129.exe

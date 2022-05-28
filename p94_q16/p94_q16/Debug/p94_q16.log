@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\KCCI09\source\c++\p94_q16\p94_q16\main.cpp(17,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\KCCI09\source\c++\p94_q16\p94_q16\main.cpp(37,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  p94_q16.vcxproj -> C:\Users\KCCI09\source\c++\p94_q16\Debug\p94_q16.exe
